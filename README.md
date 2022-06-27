@@ -1,4 +1,5 @@
-Olá, sou Eduardo 😀 <br>
+<b>Olá, sou Eduardo 😀</b> <br>
+<hr>
 <ul>
   <li>
     Sou estudante de Programação
