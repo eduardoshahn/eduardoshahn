@@ -6,9 +6,9 @@
     Sou estudante de Programação
   </li>
   <li>
-    Aperfeiçoando Javascript
+    Aprendendo GOlang
   </li>
   <li>
-    Atualmente estudando Programação Orientada a Objetos e GIT
+    Atualmente estudando GOlang e GIT
   </li>
 </ul>
