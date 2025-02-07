@@ -9,9 +9,6 @@
     Programming Student
   </li>
   <li>
-    Learning GOlang
-  </li>
-  <li>
     Currently studying GOlang and GIT
   </li>
 </ul>
