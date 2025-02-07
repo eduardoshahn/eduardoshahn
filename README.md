@@ -1,17 +1,17 @@
-<b>Olá, sou Eduardo 😀</b> <br>
-<b>Sou Técnico de Informática, programador e estudante de programação 💻</b>
+<b>Hello, I'm Eduardo 😀</b> <br>
+<b>I'm a computer technician, programmer and programming student 💻</b>
 <hr> 
 <ul>
   <li>
-    Técnico de Informática e Programador
+    Programmer and IT Technician
   </li>
   <li>
-    Sou estudante de Programação
+    Programming Student
   </li>
   <li>
-    Aprendendo GOlang
+    Learning GOlang
   </li>
   <li>
-    Atualmente estudando GOlang e GIT
+    Currently studying GOlang and GIT
   </li>
 </ul>
